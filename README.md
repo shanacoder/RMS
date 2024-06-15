@@ -1,3 +1,14 @@
+/*******************************************************
+
+Copyright (C) 2022-2024 Shanacoder support@shanacoder.com
+
+This file is part of ShanaCoder.
+
+project can not be copied and/or distributed without the express
+
+permission of ShanaCoder
+
+*******************************************************/
 ![Screenshot (262)](https://user-images.githubusercontent.com/48250220/191907727-6f3155f9-53c1-4f73-a639-15a3df620bb4.png)
 ![Screenshot (263)](https://user-images.githubusercontent.com/48250220/191907740-b59b4c10-6550-4b9e-bc35-483c633667f6.png)
 ![Screenshot (264)](https://user-images.githubusercontent.com/48250220/191907761-222d06bb-eca3-42cb-939a-c6da2cb6996e.png)
