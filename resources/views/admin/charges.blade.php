@@ -60,7 +60,7 @@
                          
 
 
-                            <td>  {{  $charge->price }} Tk</td>
+                            <td>  {{  $charge->price }} Rs</td>
 
 
                 

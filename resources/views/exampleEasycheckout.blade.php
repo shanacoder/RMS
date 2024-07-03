@@ -46,7 +46,7 @@
             <ul class="list-group mb-3">
                
                 <li class="list-group-item d-flex justify-content-between">
-                    <span>Total (BDT)</span>
+                    <span>Total (INR)</span>
                     <strong>{{ $total }}</strong>
                 </li>
             </ul>

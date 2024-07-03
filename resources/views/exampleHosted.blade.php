@@ -64,7 +64,7 @@
                     <span class="text-muted">150</span>
                 </li>
                 <li class="list-group-item d-flex justify-content-between">
-                    <span>Total (BDT)</span>
+                    <span>Total (INR)</span>
                     <strong>1200 TK</strong>
                 </li>
             </ul>

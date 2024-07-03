@@ -71,7 +71,7 @@
 
                             <td> {{ $delivery_boy->phone }} </td>
 
-                            <td>{{ $delivery_boy->salary }} Tk</td>
+                            <td>{{ $delivery_boy->salary }} Rs</td>
                      
 
 

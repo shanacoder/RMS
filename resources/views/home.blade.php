@@ -159,7 +159,7 @@
                                                             <h4>{{ $item->name }}</h4>
                                                             <p>{{  $item->description }}</p>
                                                             <div class="price">
-                                                                <h6>৳{{  $item->price }}</h6>
+                                                                <h6>₹{{  $item->price }}</h6>
                                                             </div>
                                                             <span class="product_rating">
                                                         @for($i=1;$i<=$whole;$i++)
@@ -232,7 +232,7 @@
                                                             <h4>{{ $item->name }}</h4>
                                                             <p>{{  $item->description }}</p>
                                                             <div class="price">
-                                                                <h6>৳{{  $item->price }}</h6>
+                                                                <h6>₹{{  $item->price }}</h6>
                                                             </div>
                                                             <span class="product_rating">
                                                         @for($i=1;$i<=$whole;$i++)
@@ -312,7 +312,7 @@
                                                             <h4>{{ $item->name }}</h4>
                                                             <p>{{  $item->description }}</p>
                                                             <div class="price">
-                                                                <h6>৳{{  $item->price }}</h6>
+                                                                <h6>₹{{  $item->price }}</h6>
                                                             </div>
                                                             <span class="product_rating">
                                                         @for($i=1;$i<=$whole;$i++)
@@ -383,7 +383,7 @@
                                                             <h4>{{ $item->name }}</h4>
                                                             <p>{{  $item->description }}</p>
                                                             <div class="price">
-                                                                <h6>৳{{  $item->price }}</h6>
+                                                                <h6>₹{{  $item->price }}</h6>
                                                             </div>
                                                             <span class="product_rating">
                                                         @for($i=1;$i<=$whole;$i++)
@@ -462,7 +462,7 @@
                                                             <h4>{{ $item->name }}</h4>
                                                             <p>{{  $item->description }}</p>
                                                             <div class="price">
-                                                                <h6>৳{{  $item->price }}</h6>
+                                                                <h6>₹{{  $item->price }}</h6>
                                                             </div>
                                                             <span class="product_rating">
                                                         @for($i=1;$i<=$whole;$i++)
@@ -536,7 +536,7 @@
                                                             <h4>{{ $item->name }}</h4>
                                                             <p>{{  $item->description }}</p>
                                                             <div class="price">
-                                                                <h6>৳{{  $item->price }}</h6>
+                                                                <h6>₹{{  $item->price }}</h6>
                                                             </div>
                                                             <span class="product_rating">
                                                         @for($i=1;$i<=$whole;$i++)
@@ -568,7 +568,7 @@
                                 </article>   
                             </section>
                             <br>
-                            <a href="/menu"><input style="color:#fff; background-color:#FB5849; font-size:20px;"
+                            <a href="/menu"><input style="color:#fff; background-color:#637F41; font-size:20px;"
                             class="btn" type="submit" value="Browse All"></a>
                         </div>
                     </div>
@@ -602,7 +602,7 @@
                     ?>
                         <div class='card' style="background-image: url({{asset('assets/images/'.$img)}})"> 
 
-                            <div class="price"><h6>৳{{ $product->price }}</h6>
+                            <div class="price"><h6>₹{{ $product->price }}</h6>
                             @if($product->available!="Stock")
                             <h4 style="">Out Of Stock</h4> 
 
@@ -757,8 +757,8 @@
                                 <div class="message">
                                     <i class="fa fa-envelope"></i>
                                     <h4>Emails</h4>
-                                    <span><a href="mailto:sajeebchakraborty.cse2000@gmail.com">sajeebchakraborty.cse2000@gmail.com</a><br>
-									<a href="mailto:sajeebcb.cseru@gmail.com">sajeebcb.cseru@gmail.com</a><br>
+                                    <span><a href="mailto:support@shanacoder.com">support@shanacoder.com</a><br>
+									<a href="mailto:support@shanacoder.com">support@shanacoder.com</a><br>
 									</span>
                                 </div>
                             </div>
@@ -772,6 +772,7 @@
                           <div class="row">
                             <div class="col-lg-12">
                                 <h4>Table Reservation</h4>
+                                <p>Only For Logged In User</p>
                             </div>
                             <div class="col-lg-6 col-sm-12">
                               <fieldset>

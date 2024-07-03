@@ -41,7 +41,7 @@ class SslCommerzPaymentController extends Controller
 
         $post_data = array();
         $post_data['total_amount'] = $total; # You cant not pay less than 10
-        $post_data['currency'] = "BDT";
+        $post_data['currency'] = "INR";
         $post_data['tran_id'] = $invoice; // tran_id must be unique
 
 
@@ -129,7 +129,7 @@ class SslCommerzPaymentController extends Controller
 
         $post_data = array();
         $post_data['total_amount'] = $total; # You cant not pay less than 10
-        $post_data['currency'] = "BDT";
+        $post_data['currency'] = "INR";
         $post_data['tran_id'] = $invoice; // tran_id must be unique
 
       
